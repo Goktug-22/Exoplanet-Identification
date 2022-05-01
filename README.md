@@ -1,2 +1,2 @@
 # Exoplanet-Identification
-An exoplanet Identification algorithm 
+Exoplanets are planets located outside of our solar system. In search of habitable planets and extraterrestrial life, identificaion of exoplanets are crucial. There are several methods to find an exoplanet. This algorithm focuses on discovering patterns of light fluctiations to identify systems with at least one planet. Two find these patterns CNN and Decision Tree algorithms are used.
